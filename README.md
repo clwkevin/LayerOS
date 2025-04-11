@@ -1,4 +1,5 @@
-### **Visit the site**  [teakyc-address.vercel.app](https://teakyc-address.vercel.app)
+⚠️ **Important Notice**
 
-### **If your address is not found in the list**,  
-you can paste your wallet address manually into the input field.
+Please **stop forking this repository**. This project is no longer accepting wallet addresses.
+
+Due to an overwhelming number of users submitting addresses that have **not completed KYC verification**, we have decided to close submissions. Thank you for your understanding.
